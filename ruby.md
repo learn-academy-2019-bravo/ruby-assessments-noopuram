@@ -1,4 +1,4 @@
-# Ruby Assessments
+# Ruby Assessments########
 
 Try your best to answer each question on your own before looking up the answer online. Once you're done writing your first answer, you can google the question and write the best answer you find.
 
@@ -6,7 +6,7 @@ Try your best to answer each question on your own before looking up the answer o
 #### 1. What is a method in Ruby? How is it different or similar to functions in JavaScript?
 
 
-#### 2. What does it mean that a class inherits from another class? Try to explain Ruby inheritance. 
+#### 2. What does it mean that a class inherits from another class? Try to explain Ruby inheritance.
 
 
 [Your Answer]
@@ -22,7 +22,7 @@ Try your best to answer each question on your own before looking up the answer o
 //Googled Answer
 
 
-#### 4. Name three possible non-inheritance relationships between ruby objects? 
+#### 4. Name three possible non-inheritance relationships between ruby objects?
 
 //Your Answer
 
